@@ -3,3 +3,4 @@ __pycache__/
 .venv/
 runs/*.log
 runs/*_checkpoint.pt
+Claude outputs/
